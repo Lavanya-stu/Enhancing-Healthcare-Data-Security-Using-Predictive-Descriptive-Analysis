@@ -33,6 +33,7 @@ The dataset, sourced from the U.S. Department of Health and Human Services, incl
 Thanks to the Victoria University faculty and supervisor, Jabeen Fakhra, for guidance and support throughout the research.
 
 ### Folder Structure
-- `code/`: Contains the implementation code for data preprocessing, model training, and evaluation.
-- `docs/`: Includes the project report and user manual.
+- `Final.ipynb/`: Contains the implementation code for data preprocessing, model training, and evaluation.
+- `Final Report & User Manual/`: Includes the project report and user manual.
 - `README.md`: Project overview and usage instructions.
+  
